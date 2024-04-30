@@ -1,8 +1,6 @@
 # QUIZ8
 
-# Part 1: Imaging Technique Inspiration
-## Header 2
-### Header 3
+### Part 1: Imaging Technique Inspiration
 #### Header 4
 ##### Header 5
 ###### Header 6
