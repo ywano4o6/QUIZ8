@@ -1,14 +1,14 @@
 # QUIZ8
 
 ### Part 1: Imaging Technique Inspiration
-#### Header 4
+<!-- #### Header 4
 ##### Header 5
-###### Header 6
+###### Header 6 -->
 
-**Bold Text** or __Bold Text__
-*Italic Text* or _Italic Text_
+<!-- **Bold Text** or __Bold Text__ -->
+<!-- *Italic Text* or _Italic Text_ -->
 
-- Item 1
+- Our group chose Picita Abad's artwork Wheels of Fortune, which suggests movement and change, perhaps hinting at the unpredictability of fate, and from my perspective, the vibrant colors and superimposed circles seem to be a myriad of breathing beings.
 - Item 2
   - Subitem 2.1
   - Subitem 2.2
