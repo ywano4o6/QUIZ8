@@ -1,7 +1,4 @@
 # QUIZ8
-My first repository for IDEA9103
-
-This is my first local change to the repo!
 
 # Part 1: Imaging Technique Inspiration
 ## Header 2
