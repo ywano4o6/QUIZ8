@@ -9,7 +9,7 @@
 <!-- *Italic Text* or _Italic Text_ -->
 
 - Our group chose Picita Abad's artwork Wheels of Fortune, which suggests movement and change, perhaps hinting at the unpredictability of fate, and from my perspective, the vibrant colors and superimposed circles seem to be a myriad of breathing beings.
- <img src="assets/Pacita_Abad.jpg" width="200px" >
+  <div align=centre> <img src="assets/Pacita_Abad.jpg" width="200px" >
 
 - Item 2
   - Subitem 2.1
