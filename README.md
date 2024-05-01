@@ -19,6 +19,9 @@
 - Circle Scaling
   
   After the circle is drawn, the circle is scaled by the change of the diameter size, and the speed of the diameter scaling is set to control the speed of the graphical changes, and the circle is scaled in reverse by using the if function with speed*=-1.
+  <div align=centre> <img src="assets/speed.png" width="200px" >
+  
+  [Link Text](https://editor.p5js.org/wz2044/sketches/e_zxqnrdm)
 
 - Circle Rotation
   
@@ -26,6 +29,14 @@
   <div align=centre> <img src="assets/translate.png" width="200px" >
   
   [Link Text](https://p5js.org/reference/#/p5/translate)
+
+  <div align=centre> <img src="assets/tan.png" width="200px" >
+  
+  [Link Text](https://p5js.org/reference/#/p5/tan)
+
+  <div align=centre> <img src="assets/for.png" width="200px" >
+  
+  [Link Text](https://p5js.org/reference/#/p5/for)
 
 
 
