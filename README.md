@@ -45,7 +45,7 @@
 1. Second Item
 2. Third Item -->
 
-[Link Text](https://www.google.com)
+<!-- [Link Text](https://www.google.com)
 
 
 ![An image of the Mona Lisa Image](assets/Mona_Lisa.jpg)
@@ -58,4 +58,4 @@ console.log("Hello, world!");
 
 > This is a blockquote.
 
-use a "\\" to escape formatting
+use a "\\" to escape formatting -->
