@@ -23,7 +23,7 @@
 - Circle Rotation
   
   Use translate ( ) to move the origin of the drawing coordinate system to the center of the canvas, calculate the angle of rotation by tan ( ) and PI, and use a for loop to encircle the circle around the center of the circle.
-  <div align=centre> <img src="translate.png" width="200px" >
+  <div align=centre> <img src="assets/translate.png" width="200px" >
   
   [Link Text](https://p5js.org/reference/#/p5/translate)
 
