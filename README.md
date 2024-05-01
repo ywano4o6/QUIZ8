@@ -17,17 +17,19 @@
 
 ### Part 2: Coding Technique Exploration
 - Circle Scaling
+  
   After the circle is drawn, the circle is scaled by the change of the diameter size, and the speed of the diameter scaling is set to control the speed of the graphical changes, and the circle is scaled in reverse by using the if function with speed*=-1.
 
 - Circle Rotation
+  
   Use translate ( ) to move the origin of the drawing coordinate system to the center of the canvas, calculate the angle of rotation by tan ( ) and PI, and use a for loop to encircle the circle around the center of the circle.
 
 
 
 
 <!-- 1. First Item
-2. Second Item
-3. Third Item -->
+1. Second Item
+2. Third Item -->
 
 [Link Text](https://www.google.com)
 
