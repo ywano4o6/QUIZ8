@@ -15,7 +15,14 @@
   <div align=centre> <img src="assets/circle1.jpg" width="200px" >  <img src="assets/circle2.jpg" width="197px" > 
   <div align=centre> <img src="assets/dot1.png" width="200px" > <img src="assets/dot2.png" width="200px" >
 
-- 
+### Part 2: Coding Technique Exploration
+- Circle Scaling
+After the circle is drawn, the circle is scaled by the change of the diameter size, and the speed of the diameter scaling is set to control the speed of the graphical changes, and the circle is scaled in reverse by using the if function with speed*=-1.
+
+- Circle Rotation
+Use translate ( ) to move the origin of the drawing coordinate system to the center of the canvas, calculate the angle of rotation by tan ( ) and PI, and use a for loop to encircle the circle around the center of the circle.
+
+
 
 1. First Item
 2. Second Item
